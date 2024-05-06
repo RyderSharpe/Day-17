@@ -1,4 +1,4 @@
-######### CLASS #########
+# CLASS #########
 class Dog:
     pass
 
